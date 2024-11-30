@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   # optional - use expanded license entry instead:
   # s.license    = { :type => "MIT", :file => "LICENSE" }
-  s.authors      = { "Kwikcode" => "kwikcode.dev@gmail.com" }
+  s.authors      = { "Kwikcode" => "kwikcode.dev+github@gmail.com" }
   s.platforms    = { :ios => "9.0" }
   s.source       = { :git => "https://github.com/kwikcode/mlkit-translate-text", :tag => "#{s.version}" }
 
