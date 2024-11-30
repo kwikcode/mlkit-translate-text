@@ -16,15 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a7med-mahmoud/react-native-translate-text.git",
-    "baseUrl": "https://github.com/a7med-mahmoud/react-native-translate-text"
+    "url": "git+https://github.com/kwikcode/mlkit-translate-text.git",
+    "baseUrl": "https://github.com/kwikcode/mlkit-translate-text"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Ahmed Mahmoud",
-    "email": "a7med.mahmoud2004@gmail.com"
+    "name": "Kwikcode"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
